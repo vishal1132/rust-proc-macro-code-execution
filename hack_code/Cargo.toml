@@ -1,0 +1,7 @@
+[package]
+name = "hack_code"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+hack_mac = { path = "../hack_mac", version = "0.1" }
